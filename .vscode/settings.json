@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "stat.h": "c",
+        "fcntl.h": "c",
+        "socket.h": "c",
+        "in.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "unistd.h": "c",
+        "tar.h": "c",
+        "dirent.h": "c",
+        "inet.h": "c",
+        "types.h": "c",
+        "errno.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
